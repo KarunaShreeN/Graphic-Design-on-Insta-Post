@@ -29,7 +29,7 @@ This portfolio includes creative designs made to improve my graphic design skill
 - Goblin Poster Design
 
 ## 📸 Preview
-![Jungkook Creative Poster](Your paragraph text.png)
+![Paragraph](Yourparagraphtext.png)
 ![Goblin](GOBLIN(1).png)
 
 ## 🎯 Purpose
