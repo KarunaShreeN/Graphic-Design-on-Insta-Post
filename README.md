@@ -30,7 +30,7 @@ This portfolio includes creative designs made to improve my graphic design skill
 
 ## 📸 Preview
 
-![Paragraph](Yourparagraphtext.png)
+![Paragraph](IMG_20260729_212436.jpg)
 ![Goblin](IMG_20260729_212424.jpg)
 ![Goblin1](IMG-20260730-WA0000.jpg)
 
