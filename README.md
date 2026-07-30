@@ -32,6 +32,7 @@ This portfolio includes creative designs made to improve my graphic design skill
 
 ![Paragraph](Yourparagraphtext.png)
 ![Goblin](GOBLIN(1).png)
+![Goblin1](IMG-20260730-WA0000.jpg)
 
 ## 🎯 Purpose
 
